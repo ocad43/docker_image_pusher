@@ -6,4 +6,4 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 redis
 mysql
-One-API
+ghcr.io/songquanpeng/one-api:v0.6.8
