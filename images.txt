@@ -6,4 +6,4 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 redis
 mysql
-db
+oneapi
