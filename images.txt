@@ -9,4 +9,4 @@ mysql
 ghcr.io/songquanpeng/one-api:v0.6.8
 tomcat
 ghcr.io/songquanpeng/one-api:v0.6.8@sha256:1f397514e213e80ef85e08356e42377437305d2e493000be468d662ccc66eb30
-wegt
+db
