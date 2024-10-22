@@ -7,4 +7,4 @@ nginx
 redis
 mysql
 tomcat
-ghcr.io/songquanpeng/one-api
+ghcr.io/songquanpeng/one-api：v0.6.8
