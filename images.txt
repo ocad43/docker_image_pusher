@@ -3,3 +3,4 @@ redis
 mysql
 tomcat
 ghcr.io/songquanpeng/one-api
+mysql:8.2.0
